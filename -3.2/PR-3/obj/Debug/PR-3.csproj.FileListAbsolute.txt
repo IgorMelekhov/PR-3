@@ -1,0 +1,87 @@
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-3\bin\Debug\PR-3.exe.config
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-3\bin\Debug\PR-3.exe
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-3\bin\Debug\PR-3.pdb
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-3\obj\Debug\PR-3.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-3\obj\Debug\PR_3.Form1.resources
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-3\obj\Debug\PR_3.Properties.Resources.resources
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-3\obj\Debug\PR-3.csproj.GenerateResource.cache
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-3\obj\Debug\PR-3.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-3\obj\Debug\PR-3.exe
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-3\obj\Debug\PR-3.pdb
+C:\Users\79537\Source\Repos\PR-3\PR-3\bin\Debug\PR-3.exe.config
+C:\Users\79537\Source\Repos\PR-3\PR-3\bin\Debug\PR-3.exe
+C:\Users\79537\Source\Repos\PR-3\PR-3\bin\Debug\PR-3.pdb
+C:\Users\79537\Source\Repos\PR-3\PR-3\obj\Debug\PR-3.csproj.AssemblyReference.cache
+C:\Users\79537\Source\Repos\PR-3\PR-3\obj\Debug\PR_3.Form1.resources
+C:\Users\79537\Source\Repos\PR-3\PR-3\obj\Debug\PR_3.Form2.resources
+C:\Users\79537\Source\Repos\PR-3\PR-3\obj\Debug\PR_3.Properties.Resources.resources
+C:\Users\79537\Source\Repos\PR-3\PR-3\obj\Debug\PR-3.csproj.GenerateResource.cache
+C:\Users\79537\Source\Repos\PR-3\PR-3\obj\Debug\PR-3.csproj.CoreCompileInputs.cache
+C:\Users\79537\Source\Repos\PR-3\PR-3\obj\Debug\PR-3.exe
+C:\Users\79537\Source\Repos\PR-3\PR-3\obj\Debug\PR-3.pdb
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\ПР№3\PR-3\PR-3\bin\Debug\PR-3.exe.config
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\ПР№3\PR-3\PR-3\bin\Debug\PR-3.exe
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\ПР№3\PR-3\PR-3\bin\Debug\PR-3.pdb
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\ПР№3\PR-3\PR-3\obj\Debug\PR-3.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\ПР№3\PR-3\PR-3\obj\Debug\PR_3.Properties.Resources.resources
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\ПР№3\PR-3\PR-3\obj\Debug\PR-3.csproj.GenerateResource.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\ПР№3\PR-3\PR-3\obj\Debug\PR-3.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\ПР№3\PR-3\PR-3\obj\Debug\PR-3.exe
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\ПР№3\PR-3\PR-3\obj\Debug\PR-3.pdb
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\ПР№3\PR-3\PR-3\obj\Debug\PR_3.Form1.resources
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\ПР№3\PR-3\PR-3\obj\Debug\PR_3.Form2.resources
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\ПР№3\PR-3\bin\Debug\PR-3.exe.config
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\ПР№3\PR-3\bin\Debug\PR-3.exe
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\ПР№3\PR-3\bin\Debug\PR-3.pdb
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\ПР№3\PR-3\obj\Debug\PR-3.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\ПР№3\PR-3\obj\Debug\PR_3.Form1.resources
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\ПР№3\PR-3\obj\Debug\PR_3.Form2.resources
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\ПР№3\PR-3\obj\Debug\PR_3.Properties.Resources.resources
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\ПР№3\PR-3\obj\Debug\PR-3.csproj.GenerateResource.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\ПР№3\PR-3\obj\Debug\PR-3.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\ПР№3\PR-3\obj\Debug\PR-3.exe
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\ПР№3\PR-3\obj\Debug\PR-3.pdb
+C:\Users\79537\Source\Repos\PR-3.2\PR-3\bin\Debug\PR-3.exe.config
+C:\Users\79537\Source\Repos\PR-3.2\PR-3\bin\Debug\PR-3.exe
+C:\Users\79537\Source\Repos\PR-3.2\PR-3\bin\Debug\PR-3.pdb
+C:\Users\79537\Source\Repos\PR-3.2\PR-3\obj\Debug\PR-3.csproj.AssemblyReference.cache
+C:\Users\79537\Source\Repos\PR-3.2\PR-3\obj\Debug\PR_3.Form1.resources
+C:\Users\79537\Source\Repos\PR-3.2\PR-3\obj\Debug\PR_3.Form2.resources
+C:\Users\79537\Source\Repos\PR-3.2\PR-3\obj\Debug\PR_3.Properties.Resources.resources
+C:\Users\79537\Source\Repos\PR-3.2\PR-3\obj\Debug\PR-3.csproj.GenerateResource.cache
+C:\Users\79537\Source\Repos\PR-3.2\PR-3\obj\Debug\PR-3.csproj.CoreCompileInputs.cache
+C:\Users\79537\Source\Repos\PR-3.2\PR-3\obj\Debug\PR-3.exe
+C:\Users\79537\Source\Repos\PR-3.2\PR-3\obj\Debug\PR-3.pdb
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-3\PR-3.2\PR-3\bin\Debug\PR-3.exe.config
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-3\PR-3.2\PR-3\bin\Debug\PR-3.exe
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-3\PR-3.2\PR-3\bin\Debug\PR-3.pdb
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-3\PR-3.2\PR-3\obj\Debug\PR-3.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-3\PR-3.2\PR-3\obj\Debug\PR_3.Form1.resources
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-3\PR-3.2\PR-3\obj\Debug\PR_3.Form2.resources
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-3\PR-3.2\PR-3\obj\Debug\PR_3.Properties.Resources.resources
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-3\PR-3.2\PR-3\obj\Debug\PR-3.csproj.GenerateResource.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-3\PR-3.2\PR-3\obj\Debug\PR-3.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-3\PR-3.2\PR-3\obj\Debug\PR-3.exe
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-3\PR-3.2\PR-3\obj\Debug\PR-3.pdb
+C:\Работа\PR-3\PR-3\bin\Debug\PR-3.exe.config
+C:\Работа\PR-3\PR-3\bin\Debug\PR-3.exe
+C:\Работа\PR-3\PR-3\bin\Debug\PR-3.pdb
+C:\Работа\PR-3\PR-3\obj\Debug\PR-3.csproj.AssemblyReference.cache
+C:\Работа\PR-3\PR-3\obj\Debug\PR_3.Form1.resources
+C:\Работа\PR-3\PR-3\obj\Debug\PR_3.Form2.resources
+C:\Работа\PR-3\PR-3\obj\Debug\PR_3.Properties.Resources.resources
+C:\Работа\PR-3\PR-3\obj\Debug\PR-3.csproj.GenerateResource.cache
+C:\Работа\PR-3\PR-3\obj\Debug\PR-3.csproj.CoreCompileInputs.cache
+C:\Работа\PR-3\PR-3\obj\Debug\PR-3.exe
+C:\Работа\PR-3\PR-3\obj\Debug\PR-3.pdb
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\-3.2\PR-3\bin\Debug\PR-3.exe.config
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\-3.2\PR-3\bin\Debug\PR-3.exe
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\-3.2\PR-3\bin\Debug\PR-3.pdb
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\-3.2\PR-3\obj\Debug\PR-3.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\-3.2\PR-3\obj\Debug\PR_3.Form1.resources
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\-3.2\PR-3\obj\Debug\PR_3.Form2.resources
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\-3.2\PR-3\obj\Debug\PR_3.Properties.Resources.resources
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\-3.2\PR-3\obj\Debug\PR-3.csproj.GenerateResource.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\-3.2\PR-3\obj\Debug\PR-3.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\-3.2\PR-3\obj\Debug\PR-3.exe
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\-3.2\PR-3\obj\Debug\PR-3.pdb
